@@ -28,7 +28,7 @@ Let's dive in and start assembling your Spero Autoflex!
 
 Take a look at the diagram below to gain a clear understanding of how to build Autoflex and to receive step-by-step guidance throughout the process.
 
-![Autoflex Making Diagram](/Users/derya/Documents/SPERO/Autoflex/diagram.png)
+![Autoflex Making Diagram](/diagram.png)
 
 # Printing Plate
 
